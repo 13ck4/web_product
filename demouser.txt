@@ -1,0 +1,8 @@
+product-view-2018-06-13 14:10:10-luatnguyen13ck4@gmail.com
+product-catalog-2018-06-13 14:10:17-luatnguyen13ck4@gmail.com
+product-view-2018-06-13 14:10:19-luatnguyen13ck4@gmail.com
+cart-add-2018-06-13 14:10:22-luatnguyen13ck4@gmail.com
+cart-index-2018-06-13 14:10:22-luatnguyen13ck4@gmail.com
+news-index-2018-06-13 14:10:29-luatnguyen13ck4@gmail.com
+user-index-2018-06-13 14:10:33-luatnguyen13ck4@gmail.com
+info-index-2018-06-13 14:10:35-luatnguyen13ck4@gmail.com
